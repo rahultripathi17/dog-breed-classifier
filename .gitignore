@@ -1,0 +1,22 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+env/
+*.py[cod]
+.DS_Store
+
+# Credentials and local configuration
+kaggle.json
+.env
+
+# Downloaded data and generated models
+train/
+test/
+*.zip
+model/
+models/
+checkpoints/
+*.h5
+*.keras
+*.tflite
