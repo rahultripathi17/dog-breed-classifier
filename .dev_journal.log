@@ -1,2 +1,3 @@
 [2023-03-08 21:04:40 +0530] Download pre-trained ImageNet weights for ResNet
 [2023-03-10 09:25:02 +0530] Test inference on random French Bulldog image
+[2023-03-10 09:41:54 +0530] Create requirements.txt with TensorFlow and Pandas
