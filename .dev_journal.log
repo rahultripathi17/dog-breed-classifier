@@ -10,3 +10,4 @@
 [2023-03-31 21:38:20 +0530] Save final model architecture to JSON
 [2023-03-31 09:55:22 +0530] Add random rotation and zoom to prevent overfitting
 [2023-04-02 09:24:47 +0530] Add global average pooling layer to network head
+[2023-04-04 19:51:34 +0530] Write inference script for single image prediction
