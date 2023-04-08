@@ -14,3 +14,4 @@
 [2023-04-07 09:12:16 +0530] Analyze fine-tuned model performance metrics
 [2023-04-07 17:56:59 +0530] Add project poster asset to docs folder
 [2023-04-07 14:18:05 +0530] Train baseline model for 5 initial epochs
+[2023-04-08 15:25:32 +0530] Save final trained weights to HDF5 format
