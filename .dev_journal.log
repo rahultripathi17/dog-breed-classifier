@@ -15,3 +15,4 @@
 [2023-04-07 17:56:59 +0530] Add project poster asset to docs folder
 [2023-04-07 14:18:05 +0530] Train baseline model for 5 initial epochs
 [2023-04-08 15:25:32 +0530] Save final trained weights to HDF5 format
+[2023-04-09 14:03:18 +0530] Generate random sample grid of dog images with matplotlib
