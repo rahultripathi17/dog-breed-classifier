@@ -16,3 +16,4 @@
 [2023-04-07 14:18:05 +0530] Train baseline model for 5 initial epochs
 [2023-04-08 15:25:32 +0530] Save final trained weights to HDF5 format
 [2023-04-09 14:03:18 +0530] Generate random sample grid of dog images with matplotlib
+[2023-04-11 17:50:48 +0530] Train model head for 10 epochs
