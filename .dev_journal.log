@@ -21,3 +21,4 @@
 [2023-04-12 09:03:58 +0530] Include sample prediction images in documentation
 [2023-04-13 10:57:44 +0530] Compile baseline model with Adam optimizer
 [2023-04-13 12:46:39 +0530] Download Stanford Dog Dataset via wget script
+[2023-04-14 15:04:40 +0530] Initialize Jupyter notebook for Exploratory Data Analysis
