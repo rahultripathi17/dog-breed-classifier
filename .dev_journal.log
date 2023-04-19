@@ -23,3 +23,4 @@
 [2023-04-13 12:46:39 +0530] Download Stanford Dog Dataset via wget script
 [2023-04-14 15:04:40 +0530] Initialize Jupyter notebook for Exploratory Data Analysis
 [2023-04-14 22:53:37 +0530] Add random horizontal flip to augmentation pipeline
+[2023-04-19 21:08:07 +0530] Add ModelCheckpoint to save best weights automatically
