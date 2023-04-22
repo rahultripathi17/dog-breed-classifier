@@ -25,3 +25,4 @@
 [2023-04-14 22:53:37 +0530] Add random horizontal flip to augmentation pipeline
 [2023-04-19 21:08:07 +0530] Add ModelCheckpoint to save best weights automatically
 [2023-04-21 18:12:01 +0530] Initial setup for Dog Breed classifier repo
+[2023-04-22 16:51:31 +0530] Implement EarlyStopping to halt training on plateau
