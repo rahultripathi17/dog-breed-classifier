@@ -27,3 +27,4 @@
 [2023-04-21 18:12:01 +0530] Initial setup for Dog Breed classifier repo
 [2023-04-22 16:51:31 +0530] Implement EarlyStopping to halt training on plateau
 [2023-04-30 22:01:35 +0530] Visualize augmented training images in notebook
+[2023-05-02 16:46:02 +0530] Identify top 5 most confused dog breeds
